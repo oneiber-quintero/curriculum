@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import TimeLineNodo from './TimeLineNodo'
-import Modal from './modal'
+import Modal from './Modal'
 import Experience from './experience'
 
 const Experiences = ({ info }) => {

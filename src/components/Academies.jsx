@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Modal from './modal'
+import Modal from './Modal'
 import TimeLineNodo from './TimeLineNodo'
 import Academy from './Academy'
 
