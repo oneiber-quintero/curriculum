@@ -1,4 +1,4 @@
-import WebSite from './webSite'
+import WebSite from './WebSite'
 const WebSites = ({ info }) => {
   const renderWebSites = (elem) => (
     <WebSite key={elem.id} webSite={elem}/>
