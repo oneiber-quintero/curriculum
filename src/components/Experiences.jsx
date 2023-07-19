@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import TimeLineNodo from './TimeLineNodo'
 import Modal from './Modal'
-import Experience from './experience'
+import Experience from './Experience'
 
 const Experiences = ({ info }) => {
   const { experiences, skills } = info
