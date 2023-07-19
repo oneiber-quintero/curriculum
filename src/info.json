@@ -36,23 +36,23 @@
     "about": [
         {
             "id": "a1",
-            "title": "¿Quién eres?",
+            "title": "¿Quién soy?",
             "description": "soy un Ingeniero en informática con experiencia de más de 5 años en desarrollo web. Proactivo y adaptable a nuevos entornos y tecnologías. Si deseas conocer más sobre mi experiencia y habilidades, puedes visitar mis perfiles en Upwork , LinkedIn y GitHub , o ver los cursos que he tomado en Platzi."
         },
         {
             "id": "a2",
-            "title": "¿Donde haz trabajado?",
-            "description": "He trabajado como desarrollador full-stack en villartechnologies y bolsillo.sas, donde he contribuido al desarrollo de diversos proyectos utilizando tecnologías como Angular, Node.js, ReactJS, Redux, Laravel, PHP, HTML, CSS, kirby cms, bootstrap, material design, tailwind, web scrapping y diferentes protocolos como HTTPS, IMAP, SMPT, FTP."
+            "title": "¿Donde he trabajado?",
+            "description": "He trabajado como desarrollador full-stack en villartechnologies y bolsillo.sas, donde he contribuido al desarrollo de diversos proyectos utilizando tecnologías como Angular, Node.js, ReactJS, Redux, Laravel, PHP, HTML, CSS, kirby cms, bootstrap, material design, tailwind, web scrapping y diferentes protocolos como HTTPS, IMAP, SMPT y FTP."
         },
         {
             "id": "a3",
-            "title": "¿Herramientas que haz usado?",
-            "description": "He trabajado usando herramientas como Git, Github para el versionamiento de los proyectos, Jira y Trello en la construcción de las aplicaciones siguiendo las metodologías agiles, Figma tener los modelos o mockuts de lo que se quiera construir, AWS (EC2, S3, handled manage images) servicios en la nube, Putty para acceso a servidores mediante ssh, Workbean, Xamp, Wamp, para manejo de bases de datos."
+            "title": "¿Herramientas que he usado?",
+            "description": "He trabajado usando herramientas como Git, Github para el versionamiento de los proyectos, Jira y Trello en la construcción de las aplicaciones siguiendo las metodologías agiles, Figma para los modelos o mockuts de lo que se quiera construir, AWS (EC2, S3, handled manage images) servicios en la nube, Putty para acceso a servidores mediante ssh, Workbean, Xamp, Wamp, para manejo de bases de datos."
         },
         {
             "id": "a4",
-            "title": "¿De donde aprendes?",
-            "description": "Aprendo realizando cursos en Platzi y en Youtube y poniéndolos en práctica en pequeños proyectos como esté, al momento de implementaciones de nuevos paquetes siempre revisando la documentación de cada paquete."
+            "title": "¿De donde aprendo?",
+            "description": "Aprendo realizando cursos en Platzi y en Youtube y poniéndolos en práctica en pequeños proyectos como esté, al momento de implementaciones de nuevos paquetes siempre reviso la documentación de cada paquete."
         }
     ],
     "academies": [
