@@ -1,0 +1,426 @@
+{   
+    "profile": {
+        "profession": "Desarrollador Web",
+        "prefix": "Ing.",
+        "firstname": "Oneiber",
+        "lastname": "Quintero",
+        "birthday": "20/11/1990",
+        "imageUrl": "oneiber.webp",
+        "socialNetwork": {
+            "linkedin": {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/oneiber-quintero" 
+            },
+            "facebook": {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/oneiber.quintero" 
+            },
+            "platzi": {
+                "name": "platzi",
+                "url": "https://platzi.com/@oneiber/" 
+            },
+            "github": {
+                "name": "GitHub",
+                "url": "https://github.com/oneiber-quintero" 
+            }
+        }
+    },
+    "menu": [
+        "home",
+        "about",
+        "academies",
+        "experiences",
+        "courses",
+        "websites"
+    ],
+    "about": [
+        {
+            "id": "a1",
+            "title": "¿Quién eres?",
+            "description": "soy un Ingeniero en informática con experiencia de más de 5 años en desarrollo web. Proactivo y adaptable a nuevos entornos y tecnologías. Si deseas conocer más sobre mi experiencia y habilidades, puedes visitar mis perfiles en Upwork , LinkedIn y GitHub , o ver los cursos que he tomado en Platzi."
+        },
+        {
+            "id": "a2",
+            "title": "¿Donde haz trabajado?",
+            "description": "He trabajado como desarrollador full-stack en villartechnologies y bolsillo.sas, donde he contribuido al desarrollo de diversos proyectos utilizando tecnologías como Angular, Node.js, ReactJS, Redux, Laravel, PHP, HTML, CSS, kirby cms, bootstrap, material design, tailwind, web scrapping y diferentes protocolos como HTTPS, IMAP, SMPT, FTP."
+        },
+        {
+            "id": "a3",
+            "title": "¿Herramientas que haz usado?",
+            "description": "He trabajado usando herramientas como Git, Github para el versionamiento de los proyectos, Jira y Trello en la construcción de las aplicaciones siguiendo las metodologías agiles, Figma tener los modelos o mockuts de lo que se quiera construir, AWS (EC2, S3, handled manage images) servicios en la nube, Putty para acceso a servidores mediante ssh, Workbean, Xamp, Wamp, para manejo de bases de datos."
+        },
+        {
+            "id": "a4",
+            "title": "¿De donde aprendes?",
+            "description": "Aprendo realizando cursos en Platzi y en Youtube y poniéndolos en práctica en pequeños proyectos como esté, al momento de implementaciones de nuevos paquetes siempre revisando la documentación de cada paquete."
+        }
+    ],
+    "academies": [
+        {   
+            "id": 1,
+            "name": "Universidad Nacional Experimental del Táchira",
+            "area": "Ingenieria en informática",
+            "start": "Abril 2009",
+            "end": "Diciembre 2019",
+            "location": "Venezuela, Táchira san Cristóbal",
+            "website": "http://www.unet.edu.ve/",
+            "imageUrl": "unet.webp",
+            "points": [
+                {
+                    "id": "p1",
+                    "description": "La UNET nace como una institución de carácter experimental orientada a la búsqueda de la verdad, al afianzamiento de los valores trascedentales del hombre y a la realización de una función rectora de la educación, la cultura y la ciencia mediante la docencia, la investigación, la extensión y la actividad complementaria de producción de bienes y servicios."
+                }
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": 1,
+            "website": "https://www.villartechnologies.com.ve/",
+            "imageUrl": "villartechnologies.webp",
+            "name": "Desarrollador full-stack",
+            "business": "VillarTechnologies",
+            "start": "enero 2018",
+            "end": "enero 2021",
+            "location": "Venezuela, Táchira san Cristóbal",
+            "points": [
+                {
+                    "id": "p1",
+                    "description": "Trabajé en equipo cumpliendo objetivos y manteniéndome puntual y profesional en todo momento."
+                },
+                {
+                    "id": "p2",
+                    "description": "Desarrollé un sistema en Angular8 y Node.js que conecta diferentes proveedores para ventas de productos."
+                },
+                {
+                    "id": "p3",
+                    "description": "Contribuí al desarrollo de una página de crear eventos públicos (ReactJS, Redux, Laravel) y una página de dropshipping (PHP, html, css, jquery)."
+                },
+                {
+                    "id": "p4",
+                    "description": "Trabajé en el desarrollo de una extensión de Chrome para realizar ventas de productos en Ebay (javascript)"
+                },
+                {
+                    "id": "p5",
+                    "description": "Realicé scraping en diferentes sitios web (axios, cheerio, puppeteer) y testing con Selenium y Wiremock."
+                },
+                {
+                    "id": "p6",
+                    "description": "Trabajé en WordPress para la edición y llenado de facturas (JavaScript, php)"
+                },
+                {
+                    "id": "p7",
+                    "description": "Repliqué 2 páginas informativas realizadas en (Laravel) a Kirby CMS."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "website": "https://www.bolsiyo.app/",
+            "imageUrl": "bolsiyo.webp",
+            "name": "Desarrollador full-stack",
+            "business": "Bolsiyo SAS",
+            "start": "mayo 2021",
+            "end": "febrero 2023",
+            "location": "Colombia Bogotá",
+            "points": [
+                {
+                    "id": "p1",
+                    "description": "Trabajé en equipo cumpliendo objetivos y manteniéndome puntual y profesional en todo momento."
+                },
+                {
+                    "id": "p2",
+                    "description": "Trabajé tanto en Frontend (Angular 11) como en Backend (Loopback 4)."
+                },
+                {
+                    "id": "p3",
+                    "description": "Realicé scraping web para la obtención de información de productos."
+                },
+                {
+                    "id": "p4",
+                    "description": "Implementé el token para la seguridad de la página usando JWT, JWE."
+                },
+                {
+                    "id": "p5",
+                    "description": "Implementé la conexión a S3 para la subida de archivos desde backend."
+                },
+                {
+                    "id": "p6",
+                    "description": "Implementé push notifications desde Backend y el envío de mensajes Whatsapp desde Backend usando los servicios de Twilio"
+                },
+                {
+                    "id": "p7",
+                    "description": "Contribuí al desarrollo de diversos módulos en Frontend y al desarrollo de diversos endpoints para el funcionamiento y desarrollo de Bolsiyo."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "website": "#",
+            "imageUrl": "",
+            "name": "Desarrollador full-stack",
+            "business": "Independiente",
+            "start": "enero 2017",
+            "end": "actualidad",
+            "location": "Venezuela, Táchira san Cristóbal",
+            "points": [
+                {
+                    "id": "p1",
+                    "description": "Trabajé de forma independiente realizando aplicaciones de escritorio en Java y desarrollo web (HTML, CSS) en mis tiempos libres."
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {   
+            "id": "c1",
+            "imageUrl": "8.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1789-asincronismo-js-old/diploma/detalle/",
+            "course": "Curso de asincronismo con JavaScript",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2020",
+            "site": "Platzi"
+        },
+        {
+            "id": "c2",
+            "imageUrl": "1.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1814-basico-javascript/diploma/detalle/",
+            "course": "Curso Básico de JavaScript",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2020",
+            "site": "Platzi"
+        },
+        {
+            "id": "c3",
+            "imageUrl": "7.webp",
+            "url": "https://platzi.com/p/oneiber/curso/2167-reactividad-vuejs/diploma/detalle/",
+            "course": "Curso VUE3js",
+            "start": "Enero 2021",
+            "end": "Enero 2021",
+            "site": "Platzi"
+        },
+        {
+            "id": "c4",
+            "imageUrl": "2.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1752-vuejs2/diploma/detalle/",
+            "course": "Curso de fundamentos de vue.js",
+            "start": "Enero 2021",
+            "end": "Enero 2021",
+            "site": "Platzi"
+        },
+        {
+            "id": "c5",
+            "imageUrl": "11.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1670-angular/diploma/detalle/",
+            "course": "Curso de angular",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2020",
+            "site": "Platzi"
+        },
+        {
+            "id": "c6",
+            "imageUrl": "5.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1767-practico-node/diploma/detalle/",
+            "course": "Curso Práctico de node.js",
+            "start": "Enero 2021",
+            "end": "Enero 2021",
+            "site": "Platzi"
+        },
+        {
+            "id": "c7",
+            "imageUrl": "6.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1689-backend-js/diploma/detalle/",
+            "course": "Curso de node.js",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2020",
+            "site": "Platzi"
+        },
+        {
+            "id": "c8",
+            "imageUrl": "4.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1759-fundamentos-node/diploma/detalle/",
+            "course": "Curso de fundamentos de Node.js",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2010",
+            "site": "Platzi"
+        },
+        {
+            "id": "c9",
+            "imageUrl": "10.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1244-preprocesador-sass/diploma/detalle/",
+            "course": "Curso de SASS",
+            "start": "Enero 2021",
+            "end": "Enero 2021",
+            "site": "Platzi"
+        },
+        {
+            "id": "c10",
+            "imageUrl": "12.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1362-responsive-design/diploma/detalle/",
+            "course": "Curso de Responsive Design",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2020",
+            "site": "Platzi"
+        },
+        {
+            "id": "c11",
+            "imageUrl": "9.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1492-html-css-2019/diploma/detalle/",
+            "course": "HTML y CSS",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2020",
+            "site": "Platzi"
+        },
+        {
+            "id": "c12",
+            "imageUrl": "3.webp",
+            "url": "https://platzi.com/p/oneiber/curso/1331-bootstrap/diploma/detalle/",
+            "course": "Curso de Bootstrap",
+            "start": "Diciembre 2020",
+            "end": "Diciembre 2020",
+            "site": "Platzi"
+        }
+    ],
+    "websites": [
+        {
+            "id": "w1",
+            "imageUrl": "1.webp",
+            "title": "Exchange",
+            "description": "vuejs, html, tailwind, responsive",
+            "url": "https://exchange-oneiber.netlify.app/"
+        },
+        {
+            "id": "w2",
+            "imageUrl": "2.webp",
+            "title": "Eventos",
+            "description": "bootstrap, html, responsive",
+            "url": "https://bootstrap-oneiber.netlify.app"
+        },
+        {
+            "id": "w3",
+            "imageUrl": "3.webp",
+            "title": "Simple Blog",
+            "description": "html, css, javascript, responsive",
+            "url": "https://basico-html-css-oneiber.netlify.app"
+        },
+        {
+            "id": "w4",
+            "imageUrl": "4.webp",
+            "title": "Venta de productos",
+            "description": "html, css, javascript, responsive",
+            "url": "https://responsive-oneiber.netlify.app"
+        },
+        {
+            "id": "w5",
+            "imageUrl": "5.webp",
+            "title": "Venta de productos simple",
+            "description": "html, css, javascript, responsive",
+            "url": "https://responsive-basico-oneiber.netlify.app"
+        },
+        {
+            "id": "w6",
+            "imageUrl": "6.webp",
+            "title": "Patatas",
+            "description": "angular, tailwind, responsive",
+            "url": "https://patatas-angular.netlify.app"
+        }
+    ],
+    "skills": [
+        {
+            "id": "s1",
+            "skill": "HTML y HTML5",
+            "stars": 5
+        },
+        {
+            "id": "s2",
+            "skill": "CSS y CSS3",
+            "stars": 5
+        },
+        {
+            "id": "s3",
+            "skill": "JavaScript",
+            "stars": 5
+        },
+        {
+            "id": "s4",
+            "skill": "JQuery",
+            "stars": 5
+        },
+        {
+            "id": "s5",
+            "skill": "JavaScript",
+            "stars": 5
+        },
+        {
+            "id": "s6",
+            "skill": "PHP",
+            "stars": 4
+        },
+        {
+            "id": "s7",
+            "skill": "Angular",
+            "stars": 5
+        },
+        {
+            "id": "s8",
+            "skill": "Reactjs",
+            "stars": 4
+        },
+        {
+            "id": "s9",
+            "skill": "Nodejs",
+            "stars": 5
+        },
+        {
+            "id": "s10",
+            "skill": "Tailwind",
+            "stars": 5
+        },
+        {
+            "id": "s11",
+            "skill": "Web scrapping",
+            "stars": 5
+        },
+        {
+            "id": "s12",
+            "skill": "Bootstrap",
+            "stars": 5
+        },
+        {
+            "id": "s13",
+            "skill": "Responsive desing",
+            "stars": 5
+        },
+        {
+            "id": "s14",
+            "skill": "Api rest",
+            "stars": 5
+        },
+        {
+            "id": "s15",
+            "skill": "Mysql",
+            "stars": 5
+        },
+        {
+            "id": "s16",
+            "skill": "Pl/Sql",
+            "stars": 5
+        },
+        {
+            "id": "s17",
+            "skill": "Material design",
+            "stars": 5
+        },
+        {
+            "id": "s18",
+            "skill": "Kirby cms",
+            "stars": 4
+        },
+        {
+            "id": "s19",
+            "skill": "Git/GitHub",
+            "stars": 4
+        }
+    ]
+
+}

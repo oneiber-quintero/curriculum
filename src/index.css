@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.1s;
+    visibility: visible;
+    white-space: nowrap;
+}
+[data-title]:after {
+    content: attr(data-title);
+    background-color: #fff;
+    color: #000;
+    font-size: 14px;
+    position: absolute;
+    padding: 3px 20px;
+    bottom: -3em;
+    left: -2.5em;
+    box-shadow: 1px 1px 1px skyblue;
+    opacity: 0;
+    z-index: 10000;
+    visibility: hidden;
+    border-radius: 8px; 
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+  
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: rgb(214, 219, 221);
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #b8b6b6;
+}
