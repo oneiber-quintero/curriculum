@@ -7,8 +7,8 @@ const Profile = ({ info }) => {
 
   const handleDownload = ({ language }) => {
     const link = document.createElement('a')
-    link.href = `./assets/pdfs/${language} CV oneiber quintero.pdf`
-    link.download = `${language} CV oneiber quintero.pdf`
+    link.href = `./assets/pdfs/CV ${language} Oneiber Quintero.pdf`
+    link.download = `CV ${language} Oneiber Quintero.pdf`
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
