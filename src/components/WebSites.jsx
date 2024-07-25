@@ -8,7 +8,7 @@ const WebSites = ({ info }) => {
   return (
     <>
       <h2 className="mt-12 sm:mt-0 font-bold mb-4 text-textPrimary">
-        MIS SITIOS WEBS
+        MIS SITIOS WEB
       </h2>
       <div
         className="grid gap-x-10 gap-y-10 sm:overflow-auto sm:pr-2 grid-cols-auto-fit-300"
