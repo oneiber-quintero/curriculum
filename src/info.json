@@ -1,4 +1,4 @@
-{   
+{
     "profile": {
         "profession": "Desarrollador Web",
         "prefix": "Ing.",
@@ -9,19 +9,19 @@
         "socialNetwork": {
             "linkedin": {
                 "name": "Linkedin",
-                "url": "https://www.linkedin.com/in/oneiber-quintero" 
+                "url": "https://www.linkedin.com/in/oneiber-quintero"
             },
             "facebook": {
                 "name": "Facebook",
-                "url": "https://www.facebook.com/oneiber.quintero" 
+                "url": "https://www.facebook.com/oneiber.quintero"
             },
             "platzi": {
                 "name": "platzi",
-                "url": "https://platzi.com/@oneiber/" 
+                "url": "https://platzi.com/@oneiber/"
             },
             "github": {
                 "name": "GitHub",
-                "url": "https://github.com/oneiber-quintero" 
+                "url": "https://github.com/oneiber-quintero"
             }
         }
     },
@@ -56,7 +56,7 @@
         }
     ],
     "academies": [
-        {   
+        {
             "id": 1,
             "name": "Universidad Nacional Experimental del Táchira",
             "area": "Ingenieria en informática",
@@ -76,46 +76,58 @@
     "experiences": [
         {
             "id": 1,
-            "website": "https://www.villartechnologies.com.ve/",
-            "imageUrl": "villartechnologies.webp",
-            "name": "Desarrollador full-stack",
-            "business": "VillarTechnologies",
-            "start": "enero 2018",
-            "end": "enero 2021",
-            "location": "Venezuela, Táchira san Cristóbal",
+            "website": "https://preview.finples.com/",
+            "imageUrl": "findup.webp",
+            "name": "Desarrollador backend",
+            "business": "FINDUP",
+            "start": "mayo 2024",
+            "end": "julio 2024",
+            "location": "Peru Lima",
             "points": [
                 {
                     "id": "p1",
-                    "description": "Trabajé en equipo cumpliendo objetivos y manteniéndome puntual y profesional en todo momento."
+                    "description": "Desarrollé un submódulo exportable en Nestjs para la pasarela de pagos de una agencia de viajes, implementando dicha pasarela con el proveedor de servicios de VirtualPos."
                 },
                 {
                     "id": "p2",
-                    "description": "Desarrollé un sistema en Angular8 y Node.js que conecta diferentes proveedores para ventas de productos."
+                    "description": "Trabajé en la implementación é importación de dicho submódulo en el proyecto principal el cual estaba construido con NestJS y MongoDB."
                 },
                 {
                     "id": "p3",
-                    "description": "Contribuí al desarrollo de una página de crear eventos públicos (ReactJS, Redux, Laravel) y una página de dropshipping (PHP, html, css, jquery)."
+                    "description": "También trabajé en la creación de diversos Endpoints y Webhooks para el manejo de diversos planes, promociones y suscripciones, de sus clientes."
                 },
                 {
                     "id": "p4",
-                    "description": "Trabajé en el desarrollo de una extensión de Chrome para realizar ventas de productos en Ebay (javascript)"
-                },
-                {
-                    "id": "p5",
-                    "description": "Realicé scraping en diferentes sitios web (axios, cheerio, puppeteer) y testing con Selenium y Wiremock."
-                },
-                {
-                    "id": "p6",
-                    "description": "Trabajé en WordPress para la edición y llenado de facturas (JavaScript, php)"
-                },
-                {
-                    "id": "p7",
-                    "description": "Repliqué 2 páginas informativas realizadas en (Laravel) a Kirby CMS."
+                    "description": "Trabajé en migración de los antiguos usuarios al nuevo sistema de suscripciones de la empresa."
                 }
             ]
         },
         {
             "id": 2,
+            "website": "https://dra-kathery-quintero.netlify.app/",
+            "imageUrl": "kathery.webp",
+            "name": "Desarrollador full-stack",
+            "business": "Nefrólogo Pediatra Dra. Kathery",
+            "start": "marzo 2024",
+            "end": "abril 2024",
+            "location": "Venezuela San Cristóbal",
+            "points": [
+                {
+                    "id": "p1",
+                    "description": "Trabajé desarrollando una pagina de informativa en ReactJs y TailwindCss, para mostrar los lugares y horario de atención de la doctora Nefrólogo Pediatra."
+                },
+                {
+                    "id": "p2",
+                    "description": "También implemente Google Analitícs en el sitio para conocer la cantidad de visitas de la pagina así como también la captura de los eventos generados por el usuario en el sitio."
+                },
+                {
+                    "id": "p3",
+                    "description": "Realicé el deploy de dicho sitio web."
+                }
+            ]
+        },
+        {
+            "id": 3,
             "website": "https://www.bolsiyo.app/",
             "imageUrl": "bolsiyo.webp",
             "name": "Desarrollador full-stack",
@@ -155,7 +167,47 @@
             ]
         },
         {
-            "id": 3,
+            "id": 4,
+            "website": "https://www.villartechnologies.com.ve/",
+            "imageUrl": "villartechnologies.webp",
+            "name": "Desarrollador full-stack",
+            "business": "VillarTechnologies",
+            "start": "enero 2018",
+            "end": "enero 2021",
+            "location": "Venezuela, Táchira san Cristóbal",
+            "points": [
+                {
+                    "id": "p1",
+                    "description": "Trabajé en equipo cumpliendo objetivos y manteniéndome puntual y profesional en todo momento."
+                },
+                {
+                    "id": "p2",
+                    "description": "Desarrollé un sistema en Angular8 y Node.js que conecta diferentes proveedores para ventas de productos."
+                },
+                {
+                    "id": "p3",
+                    "description": "Contribuí al desarrollo de una página de crear eventos públicos (ReactJS, Redux, Laravel) y una página de dropshipping (PHP, html, css, jquery)."
+                },
+                {
+                    "id": "p4",
+                    "description": "Trabajé en el desarrollo de una extensión de Chrome para realizar ventas de productos en Ebay (javascript)"
+                },
+                {
+                    "id": "p5",
+                    "description": "Realicé scraping en diferentes sitios web (axios, cheerio, puppeteer) y testing con Selenium y Wiremock."
+                },
+                {
+                    "id": "p6",
+                    "description": "Trabajé en WordPress para la edición y llenado de facturas (JavaScript, php)"
+                },
+                {
+                    "id": "p7",
+                    "description": "Repliqué 2 páginas informativas realizadas en (Laravel) a Kirby CMS."
+                }
+            ]
+        },
+        {
+            "id": 5,
             "website": "#",
             "imageUrl": "",
             "name": "Desarrollador full-stack",
@@ -172,7 +224,7 @@
         }
     ],
     "courses": [
-        {   
+        {
             "id": "c1",
             "imageUrl": "8.webp",
             "url": "https://platzi.com/p/oneiber/curso/1789-asincronismo-js-old/diploma/detalle/",
@@ -380,7 +432,7 @@
         },
         {
             "id": "s10",
-            "skill": "Tailwind",
+            "skill": "TailwindCSS",
             "stars": 5
         },
         {
@@ -427,7 +479,11 @@
             "id": "s19",
             "skill": "Git/GitHub",
             "stars": 4
+        },
+        {
+            "id": "s20",
+            "skill": "Nest.js",
+            "stars": 5
         }
     ]
-
 }
