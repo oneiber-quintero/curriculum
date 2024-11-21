@@ -75,6 +75,34 @@
     ],
     "experiences": [
         {
+            "id": 6,
+            "website": "https://app.fronve.com/seguridad/ingresar",
+            "imageUrl": "fronve.webp",
+            "name": "Desarrollador full-stack",
+            "business": "fronve",
+            "start": "octubre 2024",
+            "end": "octubre 2024",
+            "location": "Venezuela",
+            "points": [
+                {
+                    "id": "p1",
+                    "description": "Actualice el proyecto de fronve de angular 6.3.1 a angular 18.2.8."
+                },
+                {
+                    "id": "p2",
+                    "description": "Actualice todas las dependencias, entre ellas bootstrap, toast, firebase, rxjs, ng-loading, ngx-perfect-scroll, eslint, entre otras."
+                },
+                {
+                    "id": "p3",
+                    "description": "Actualice funciones, estilos css, manejo de errores, rutas e importaciones en estado deprecated."
+                },
+                {
+                    "id": "p4",
+                    "description": "Realice pruebas manuales comparativas con el viejo sistema en cada uno de los módulos para garantizar, que cada modulo este visualmente igual y funcionalmente perfecto."
+                }
+            ]
+        },
+        {
             "id": 1,
             "website": "https://preview.finples.com/",
             "imageUrl": "findup.webp",
@@ -334,6 +362,13 @@
         }
     ],
     "websites": [
+        {
+            "id": "w7",
+            "imageUrl": "7.webp",
+            "title": "Creador de tareas",
+            "description": "Angular16, html, tailwind, responsive",
+            "url": "https://tareas-oneiber.netlify.app/"
+        },
         {
             "id": "w0",
             "imageUrl": "0.webp",
